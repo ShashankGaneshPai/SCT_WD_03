@@ -26,12 +26,6 @@ tic-tac-toe/
 │── script.js       # Game logic and score handling
 │── README.md       # Project documentation
 
-▶️ How to Run the Project
-Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe.git
-Navigate to the project folder:
-cd tic-tac-toe
-Open index.html in any modern web browser.
 
 🎯 How to Play
 Player X starts the game.
